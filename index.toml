@@ -16,6 +16,11 @@ hash = "ad8eec24ca50321f986faf274ed27713e49bdb7b848630be243154c31c4c1f37"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "7b9270a82af9fb99ca346990213a08b5d3b4bb28d4358ac3f2ba63c4ae644165"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "c08e2ab704e3e3025380283cebc723e3e6b0bc282b3a92085d9d4ac0172f3bbf"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "ea13f11420714ed7adb660f06483322c849092dc287d3b1e860443f1781c1300"
 metafile = true
 
 [[files]]
@@ -211,6 +221,11 @@ hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "f0f49ff245a4551a6e87187731a3d4d2217aab641e290217a24ef115df31825e"
 metafile = true
@@ -266,6 +281,16 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "75fb29caa3875c173e94bbe3b403ae94dea97600d6295024cfe4ab3cc62b5368"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "28684cfa77b928dc7626d5e7149a78a3b7ec6b6a69102774224cdcbab900284e"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
@@ -301,6 +326,11 @@ hash = "0e1e977dcdaa0faea640cce61a6269a630b4be50b4913c2bc86827b6bd2f5e49"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "f34a2836de386f0b340d13a6895d36f6f227ece41bc00f9efcf7f1875e13cca7"
+metafile = true
+
+[[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "b29114e8d0a6f719fb59075c9953e5a1555a315a1686d5e2ed75813077337f2c"
 metafile = true
@@ -318,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "30c1457311af0def3043d2b6bf9107003a14edcf1567d403e5ca166a6620cf04"
 metafile = true
 
 [[files]]
@@ -558,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c5ce0de743555c3ada8f0e82f22791f28034e3bd4a3011794ebfd906a05c428"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "71ef81296c5c139e2ad2dedeb96383c1e25d67eefe673216a42fa2bd2c750a32"
 metafile = true
 
 [[files]]
