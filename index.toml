@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "generate.sh"
-hash = "5e6a267697bb0047444850585cae3ac7fd211fd712f4f467c2309c6eadd63252"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
 metafile = true
@@ -620,5 +616,9 @@ hash = "71ef81296c5c139e2ad2dedeb96383c1e25d67eefe673216a42fa2bd2c750a32"
 metafile = true
 
 [[files]]
-file = "refresh.sh"
-hash = "04d0331bf20893414e578600e71200ec7b1cdf3295607d983f8651123cc3ba7a"
+file = "start.sh"
+hash = "4a8ed553237b3000f0a22fbcdd8c27f405e058879687bfa5ffca60bf916e1885"
+
+[[files]]
+file = "user_jvm_args.txt"
+hash = "97c72e38f9dfb224b00124d8e8ad81625df9eecd939231dcf88f80d12b0b5184"
