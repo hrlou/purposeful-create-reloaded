@@ -22,6 +22,7 @@ fi
 
 while true; do
 	java @jvm_args.txt -jar server.jar --nogui
+	java @user_jvm_args.txt @libraries/net/neoforged/forge/"${MC_VERSION}-${NFM_VERSION}/unix_args.txt" --nogui
 	echo Server restarting...
 	echo Press CTRL + Z to stop.
 done
