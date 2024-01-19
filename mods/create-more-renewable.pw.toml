@@ -1,0 +1,13 @@
+name = "Create: More Renewable"
+filename = "createmr-1.20.1-0.0.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/HgFaIVyn/versions/3RAck6I1/createmr-1.20.1-0.0.7.jar"
+hash-format = "sha1"
+hash = "085da0a87aa9dc6de34ba0751818789d46444ce2"
+
+[update]
+[update.modrinth]
+mod-id = "HgFaIVyn"
+version = "3RAck6I1"
