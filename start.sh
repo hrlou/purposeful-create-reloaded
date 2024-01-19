@@ -4,7 +4,7 @@ MC_VERSION="1.20.1"
 NFML_VERSION="47.1.88"
 INSTALLER="https://maven.neoforged.net/releases/net/neoforged/forge/${MC_VERSION}-${NFML_VERSION}/forge-${MC_VERSION}-${NFML_VERSION}-installer.jar"
 
-if [ ! -f "./server.jar" ]; then
+if [ ! -d "./libraries" ]; then
 	jar="./installer.jar"
 	wget "${INSTALLER}" -O ${jar}
 	java -jar ${jar} --installServer
