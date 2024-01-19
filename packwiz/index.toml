@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "38fc0d1293e36c0e9a7a750ba8c51cc5587b6dfc8d0ac39a9e2110b17fce6ed3"
 metafile = true
 
 [[files]]
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "59500224d2e7e1689a5a5ae632ca136387547c7787e0391c5ba122f0ca6ebc4b"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "502e02e1186742a1f2cd7f2dafdd491e360d831ce9d593949017c401136124f7"
 metafile = true
 
 [[files]]
