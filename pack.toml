@@ -1,12 +1,12 @@
 name = "Purposeful Create Reloaded"
 author = "Hess Lewis"
-version = "1.0.0"
+version = "v1.0.0-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "05dfd1374cab12ac1ff959d6726ec5813736dd5752edacd3ebd34a4a5bf1c82d"
+hash = "edaf06d69ed744dd07de2f8bb96dbc2e05b619f0c56e6b28ec735dd382ee85a7"
 
 [versions]
 minecraft = "1.20.1"

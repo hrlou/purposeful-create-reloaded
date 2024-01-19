@@ -76,6 +76,11 @@ hash = "a6305ffdc1d57c763b0466d1528745c49bf26ec61e70c47890ed8276972c6f37"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "220b794857ee4dc6a8cbea011b01f64d6f75613c750979ce9fc034f95bda3b06"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "1cde5b24783318d1a0b6e2f56f2d04438a34922ef0b3e2cfd6f910557bea25a2"
 metafile = true
@@ -251,11 +256,6 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-tfc.pw.toml"
-hash = "96eda7dd34a486975c5378f63f85523694eac26be6a0e5eec1183a00956e5be6"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
@@ -426,13 +426,13 @@ hash = "5e23307c99dc10a01346aeb54802a52bd49cf32043cccd1ed0e9a40617ee4ba4"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "fb0315e4e9cd3e19c54020193baabce224fc8323ff6ffaa4aa47be73f4125bac"
+file = "mods/packet-fixer.pw.toml"
+hash = "c26b38b07ba7c5d4a48e41598c01563e99e54e8d780915d7dbb98e49fabcc217"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "c26b38b07ba7c5d4a48e41598c01563e99e54e8d780915d7dbb98e49fabcc217"
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
@@ -528,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
-metafile = true
-
-[[files]]
-file = "mods/terrafirmacraft.pw.toml"
-hash = "d1bc33d2ec69f8278e9ad1f5b8ee923ed80b146e28596c2b86b5a55682323a48"
 metafile = true
 
 [[files]]
