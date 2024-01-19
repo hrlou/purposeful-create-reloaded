@@ -406,6 +406,11 @@ hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
 metafile = true
 
 [[files]]
+file = "mods/local-looks.pw.toml"
+hash = "fb8b62337ee46a034b13546ec18dd8b0f8ced85533f8773bc54f6510805e3634"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
 metafile = true

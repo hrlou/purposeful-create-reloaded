@@ -1,0 +1,13 @@
+name = "Local Looks"
+filename = "locallooks-1.5-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QYMWGqdh/versions/pPZVmGpY/locallooks-1.5-1.20.jar"
+hash-format = "sha1"
+hash = "348c9051b085f33e130b7f4619f9f634c106424a"
+
+[update]
+[update.modrinth]
+mod-id = "QYMWGqdh"
+version = "pPZVmGpY"
