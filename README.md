@@ -1,0 +1,153 @@
+# Purposeful Create (Reloaded)
+
+**Automation and industries back in action with impelling purpose!**   
+_Now for NeoForge 1.20.1_
+
+## Goal
+
+Purposeful Create (Reloaded) follows the same principle as the original pack.
+The original pack became _bogged down_ over time, and difficult to maintain.
+Loading would take several minutes, and it was prone to crashing.
+Reloaded on the other hand, is much leaner, and is easier to maintain.
+It loads in less than a minute, and is much more performant.
+
+Purposeful Create (Reloaded) is a simple modpack that aims to enhance the vanilla experience,
+and add some needed difficulty.
+Centring around Create with some other fun additions,
+filling gaps in the vanilla experience; making your progress feel more purposeful.
+New biomes, enemies, and resources to discover and exploit.
+
+My biggest issue with Minecraft is a lack of purpose and incentive for your actions.
+The game provides a vast toolbox to carve any world of your choosing.
+However the central survival gameplay loop gives no incentive for you to use its toolbox to its full extent.
+Create expands on Minecraft's toolbox to the world of engineering extremely organically;
+its style is indistinguishable from the base game.
+This expanded toolbox can be used to create machines and contraptions,
+which most importantly have incentive.
+The Create developers share my issue and have done an absolutely fantastic job of remedying it. 
+
+## Mods
+
+ - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+ - [Adorn](https://modrinth.com/mod/adorn)
+ - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
+ - [The Aether](https://modrinth.com/mod/aether)
+ - [Alex's Caves](https://modrinth.com/mod/alexs-caves)
+ - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
+ - [Alternate Current](https://modrinth.com/mod/alternate-current)
+ - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+ - [AppleSkin](https://modrinth.com/mod/appleskin)
+ - [Architectury API](https://modrinth.com/mod/architectury-api)
+ - [Athena](https://modrinth.com/mod/athena-ctm)
+ - [AttributeFix](https://modrinth.com/mod/attributefix)
+ - [Balm](https://modrinth.com/mod/balm)
+ - [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
+ - [Better Archeology](https://modrinth.com/mod/better-archeology)
+ - [Better Third Person](https://modrinth.com/mod/better-third-person)
+ - [Better Totem of Undying](https://modrinth.com/mod/better-totem-of-undying-forge)
+ - [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
+ - [Bountiful](https://modrinth.com/mod/bountiful)
+ - [BucketLib](https://modrinth.com/mod/bucketlib)
+ - [Canary](https://modrinth.com/mod/canary)
+ - [Chipped](https://modrinth.com/mod/chipped)
+ - [Citadel](https://modrinth.com/mod/citadel)
+ - [Cloth Config API](https://modrinth.com/mod/cloth-config)
+ - [Clumps](https://modrinth.com/mod/clumps)
+ - [Collective](https://modrinth.com/mod/collective)
+ - [Comforts](https://modrinth.com/mod/comforts)
+ - [Controlling](https://modrinth.com/mod/controlling)
+ - [Corpse](https://modrinth.com/mod/corpse)
+ - [Create Big Cannons](https://modrinth.com/mod/create-big-cannons)
+ - [Create Deco](https://modrinth.com/mod/create-deco)
+ - [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
+ - [Create: Garnished](https://modrinth.com/mod/create-garnished)
+ - [Create: More Renewable](https://modrinth.com/mod/create-more-renewable)
+ - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+ - [Create: Structures](https://modrinth.com/mod/create-structures)
+ - [Create Stuff & Additions](https://modrinth.com/mod/create-stuff-additions)
+ - [Create](https://modrinth.com/mod/create)
+ - [Create Crafts & Additions](https://modrinth.com/mod/createaddition)
+ - [CreativeCore](https://modrinth.com/mod/creativecore)
+ - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+ - [CTOV - Create: Structures](https://modrinth.com/mod/ctov-create-structures)
+ - [Curios API](https://modrinth.com/mod/curios)
+ - [Dismount Entity](https://modrinth.com/mod/dismount-entity)
+ - [Let's Do: API](https://modrinth.com/mod/do-api)
+ - [Domestication Innovation](https://modrinth.com/mod/domestication-innovation)
+ - [Double Doors](https://modrinth.com/mod/double-doors)
+ - [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
+ - [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
+ - [Effect Tooltips](https://modrinth.com/mod/effect-tooltips)
+ - [Embeddium](https://modrinth.com/mod/embeddium)
+ - [EMI](https://modrinth.com/mod/emi)
+ - [EMIffect](https://modrinth.com/mod/emiffect)
+ - [EMI Trades](https://modrinth.com/mod/emitrades)
+ - [Entity Culling](https://modrinth.com/mod/entityculling)
+ - [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+ - [FerriteCore](https://modrinth.com/mod/ferrite-core)
+ - [Formations Overworld](https://modrinth.com/mod/formations-overworld)
+ - [Formations (Structure Library)](https://modrinth.com/mod/formations)
+ - [FramedBlocks](https://modrinth.com/mod/framedblocks)
+ - [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
+ - [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+ - [FTB Ranks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)
+ - [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
+ - [FTB XMod Compat](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat)
+ - [Fusion](https://modrinth.com/mod/fusion)
+ - [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)
+ - [Healing Campfire](https://modrinth.com/mod/healing-campfire)
+ - [Highlight](https://modrinth.com/mod/highlight)
+ - [Iceberg](https://modrinth.com/mod/iceberg)
+ - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+ - [Create: Interiors](https://modrinth.com/mod/interiors)
+ - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+ - [InvMove](https://modrinth.com/mod/invmove)
+ - [Jade 🔍](https://modrinth.com/mod/jade)
+ - [Kambrik](https://modrinth.com/mod/kambrik)
+ - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+ - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
+ - [Ksyxis](https://modrinth.com/mod/ksyxis)
+ - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
+ - [libIPN](https://modrinth.com/mod/libipn)
+ - [Let Me Despawn](https://modrinth.com/mod/lmd)
+ - [Local Looks](https://modrinth.com/mod/local-looks)
+ - [Log Begone](https://modrinth.com/mod/log-begone)
+ - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+ - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+ - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+ - [ModernFix](https://modrinth.com/mod/modernfix)
+ - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+ - [Move Boats](https://modrinth.com/mod/move-boats)
+ - [Move Minecarts](https://modrinth.com/mod/move-minecarts)
+ - [Nature's Compass](https://modrinth.com/mod/natures-compass)
+ - [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
+ - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+ - [Packet Fixer](https://modrinth.com/mod/packet-fixer)
+ - [Patchouli](https://modrinth.com/mod/patchouli)
+ - [Polymorph](https://modrinth.com/mod/polymorph)
+ - [Prism](https://modrinth.com/mod/prism-lib)
+ - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+ - [Resourceful Lib](https://modrinth.com/mod/resourceful-lib)
+ - [Resourcify](https://modrinth.com/mod/resourcify)
+ - [Remove Reloading Screen](https://modrinth.com/mod/rrls)
+ - [Saturn](https://modrinth.com/mod/saturn)
+ - [Searchables](https://modrinth.com/mod/searchables)
+ - [Simple Planes](https://modrinth.com/mod/simple-planes)
+ - [SimpleCoreLib](https://modrinth.com/mod/simplecore-api)
+ - [SimpleOres2](https://modrinth.com/mod/simpleores)
+ - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+ - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+ - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+ - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+ - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+ - [Straw Statues](https://modrinth.com/mod/straw-statues)
+ - [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
+ - [Tectonic](https://modrinth.com/mod/tectonic)
+ - [Terralith](https://modrinth.com/mod/terralith)
+ - [TexTrue's Embeddium Options](https://modrinth.com/mod/textrues-embeddium-options)
+ - [Tool Stats](https://modrinth.com/mod/tool-stats)
+ - [Let's Do: Vinery](https://modrinth.com/mod/vinery)
+ - [XaeroPlus](https://modrinth.com/mod/xaeroplus)
+ - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+ - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+ - [YUNG's API](https://modrinth.com/mod/yungs-api)

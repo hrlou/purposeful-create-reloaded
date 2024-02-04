@@ -15,7 +15,7 @@ get_url() {
 }
 
 for i in mods/*.toml; do
-	NAME=$(dasel -f "${i}" -r toml name)
+	NAME=$(dasel -f "${i}" -r toml name); NAME=${NAME:1:-1}
 	get_url "${i}"
 	echo " - [${NAME}](${URL})"
 done
