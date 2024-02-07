@@ -1,6 +1,6 @@
 name = "Purposeful Create Reloaded"
 author = "Hess Lewis"
-version = "v1.0.0-alpha.2"
+version = "v1.0.0-rc.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
