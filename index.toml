@@ -51,11 +51,6 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "f099444599c74922126b705df155c90d6fbaf71a46cc356c5f6a39414dfbefbb"
-metafile = true
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "21693570dd62ad5e53ab74e69012b427621291f258a66387f0da6a9d3819a41f"
 metafile = true
@@ -73,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "9ac1ca724e03e33bc78b829ee6299d3f02aadb21c5233f301e157a0a958deb4b"
 metafile = true
 
 [[files]]
@@ -103,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/bucketlib.pw.toml"
 hash = "3a88c04fc79d844cc3a2ef6a84237a8bc7705da54e75d288c5dc5b58b1ba00fb"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "d96d9c35d3d9d95bcb956c9096ed654b15fdf4d44c5288f38f576002fb03fd3c"
 metafile = true
 
 [[files]]
@@ -473,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
-metafile = true
-
-[[files]]
-file = "mods/prometheus.pw.toml"
-hash = "fbacb8db377af826017ddc1b7da81258f677b2b2ea94a08e8f528aec473de35f"
 metafile = true
 
 [[files]]
