@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # READ FROM pack.toml if possible, too lazy at the moment
-MC_VERSION="1.20.1"
-NFML_VERSION="47.1.88"
+MC_VERSION="$(grep -Po '(?<=minecraft = ")[^"]*' pack.toml)"
+NFML_VERSION="$(grep -Po '(?<=neoforge = ")[^"]*' pack.toml)"
 INSTALLER="https://maven.neoforged.net/releases/net/neoforged/forge/${MC_VERSION}-${NFML_VERSION}/forge-${MC_VERSION}-${NFML_VERSION}-installer.jar"
 
 if [ ! -d "./libraries" ]; then
