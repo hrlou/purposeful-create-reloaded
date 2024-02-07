@@ -6,6 +6,11 @@ hash = "7318b31316fd07d9389d03e0cf62bfeff8ec92c869ab5bea0a7a3aa4508790bc"
 metafile = true
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
@@ -306,6 +311,11 @@ hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
 
 [[files]]
+file = "mods/froglegs.pw.toml"
+hash = "0a496729cbc0da39d016cba5c35b6579937cf6fc466dcd05936923820fd326cd"
+metafile = true
+
+[[files]]
 file = "mods/fusion.pw.toml"
 hash = "0e1e977dcdaa0faea640cce61a6269a630b4be50b4913c2bc86827b6bd2f5e49"
 metafile = true
@@ -421,6 +431,11 @@ hash = "6d6e3a22c78a334c6b6471b35839d2730caa47573ad4a3a6997c735ef58ad933"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "038fcb9985adaa5756f9236c84634a1fe546eb4f4c54f2293d61e1989c114870"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
@@ -461,6 +476,11 @@ hash = "c26b38b07ba7c5d4a48e41598c01563e99e54e8d780915d7dbb98e49fabcc217"
 metafile = true
 
 [[files]]
+file = "mods/passive-shield.pw.toml"
+hash = "f1745c649f5d786743bf8d61fd7d17b3f7b8d9856f6bbac1dc6173395e17a35d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -478,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5077611a23481c6f0e46511763be68ef894aac73a42a2d1060ebc93e269ba0a3"
+metafile = true
+
+[[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "93e79408df50cc9345dcdbcb36846679367428d802be8b5aa585a644fb808baf"
 metafile = true
 
 [[files]]
@@ -556,6 +581,11 @@ hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9fbf7fde5136a0bac938381704c813e4153127140d5bab5c04867b7120b32617"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
 metafile = true
@@ -573,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "59500224d2e7e1689a5a5ae632ca136387547c7787e0391c5ba122f0ca6ebc4b"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "380a4fa6e7a000948f03713bbe4792bdd44f7050f1a2397893949b30bd1ef2f8"
 metafile = true
 
 [[files]]

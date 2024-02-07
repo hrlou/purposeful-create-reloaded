@@ -1,0 +1,13 @@
+name = "Frog Legs"
+filename = "FrogLegs-v2.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/equ26Hrh/versions/u9FpFxnu/FrogLegs-v2.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "78feb6050baca1450a95317586567eb62c554ece"
+
+[update]
+[update.modrinth]
+mod-id = "equ26Hrh"
+version = "u9FpFxnu"
