@@ -126,6 +126,11 @@ hash = "09c8abfaa96974aa8cf2e2f41fc4ef6829b2660a84511d6b77df931a739ac171"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "2fe60eb291829a88780ba90aca785a5b838caaa4cb3dd8977bbf81f07358c2c2"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "6968e46ff1ab44b78f36feba630a75fba817d919787ad00488aad8961d76635e"
 metafile = true
@@ -623,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "59500224d2e7e1689a5a5ae632ca136387547c7787e0391c5ba122f0ca6ebc4b"
-metafile = true
-
-[[files]]
-file = "mods/trimseffects.pw.toml"
-hash = "380a4fa6e7a000948f03713bbe4792bdd44f7050f1a2397893949b30bd1ef2f8"
 metafile = true
 
 [[files]]
