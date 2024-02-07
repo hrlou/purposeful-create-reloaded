@@ -1,13 +1,13 @@
 name = "Better Archeology"
-filename = "betterarcheology-1.1.2-1.20.1.jar"
+filename = "betterarcheology-1.1.5-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zCh7omyG/versions/9umhrcBO/betterarcheology-1.1.2-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/sAb4sprI/betterarcheology-1.1.5-1.20.1.jar"
 hash-format = "sha1"
-hash = "403383d1af71dc0f1c4e0321bbe4cdc0ccd2a842"
+hash = "5a80e5ce3ae30fe16ab1d9e6583d445e8fd68498"
 
 [update]
 [update.modrinth]
 mod-id = "zCh7omyG"
-version = "9umhrcBO"
+version = "sAb4sprI"
