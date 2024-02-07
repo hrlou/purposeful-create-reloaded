@@ -301,31 +301,6 @@ hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "03007dbec06967fadd517024dc8b8b1e1b01696fd79965fa8403da6585d161fa"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "ba8611194b53a37c87f3531718f338b7f5275a84dc7d35730e660c9e7d5e680e"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "6d4a92463401c5452fd11c1f71f7b049b3564b1f53f69a74b54302e981415465"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "f9923d413d98e0fdb3a15dccd597b389a77cab6546b94db46817d697814df00c"
-metafile = true
-
-[[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "c29644a21f7936f1db9dc3c3dd54fe593a91dfeb1cc3f13ffc5fff5e02f890a6"
-metafile = true
-
-[[files]]
 file = "mods/fusion.pw.toml"
 hash = "0e1e977dcdaa0faea640cce61a6269a630b4be50b4913c2bc86827b6bd2f5e49"
 metafile = true
@@ -614,6 +589,18 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "71ef81296c5c139e2ad2dedeb96383c1e25d67eefe673216a42fa2bd2c750a32"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "4b5049617e4cf5d0e772e030d557d1d50d920edf3444df9f83939cf7da667c28"
+
+[[files]]
+file = "server.properties"
+hash = "e6c1162feb3b155dbdd667356de8a51fc72b4c4447da0e86c444dfd9f3e15593"
+
+[[files]]
+file = "start-screen.sh"
+hash = "66c98bac9b8a842e7c582e9c20765e72e995eb043f07bed970657712da62ecdf"
 
 [[files]]
 file = "start.sh"
