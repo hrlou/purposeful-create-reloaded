@@ -166,6 +166,11 @@ hash = "e0d7712d287b036843f09cb92d4dca3321ede49c9c39992e1f124a070174fa9f"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "7813a7af926e6a62ff4ab74910cdf4c084f7fd4e317bcd8c4549e51a930e99d6"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "e6d9ff51e12795189b72161e9b6fa443c93fb3512013bd9d184592b466732872"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "f0f49ff245a4551a6e87187731a3d4d2217aab641e290217a24ef115df31825e"
+metafile = true
+
+[[files]]
+file = "mods/drink-beer-refill.pw.toml"
+hash = "46a6daff4edbed9f4d9a5e82bebdb1334cdd2ae35ec0d58ac71661c584e02ec8"
 metafile = true
 
 [[files]]
