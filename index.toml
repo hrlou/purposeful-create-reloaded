@@ -596,11 +596,6 @@ hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
-metafile = true
-
-[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "f4a0bd2d234b496174894b285be4c862150ff4cc331e4a042d2fd05ea9a60f4e"
 metafile = true
