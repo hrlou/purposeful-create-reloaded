@@ -1,0 +1,13 @@
+name = "Boat Item View"
+filename = "Boat-Item-View-Forge-1.20.1-0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/msJBWPLN/Boat-Item-View-Forge-1.20.1-0.0.5.jar"
+hash-format = "sha1"
+hash = "8367bf496550dff3c9ed957df134201d550700fc"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "msJBWPLN"

@@ -91,6 +91,11 @@ hash = "6fd0b603e65173eb075301c4fb4cb9f21d61f85a46f795fb9ada1cb3ef7f4711"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45044ceaf49f257a75b60118ee8e1c96c94f9c5c62a2c5b33a846006e8ad1ab3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "64be5125bb867f68dec3ca9241395373ea49142b0fc0edf3a39bc12955b76b82"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "0c6310af6351d8dff9b9f698ec477e5fdba8702626948101b032d54a666e82bc"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
 
 [[files]]
@@ -161,6 +171,11 @@ hash = "c6d60d0468773af6b5c39a68a3e9384367fafad9ce6ca13f3495d0f9735649a4"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "07969aef1ce948aacc3296743969126d7d8bf96197e17e022a2bae64d3def458"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "e5bef1d75ad8fc25274295fdb1589eea7894270ea27718dba4030fa30455324f"
 metafile = true
@@ -181,8 +196,18 @@ hash = "74bd427e3dbfec0c40ff2a99a3f741785cfbb2577612ef4c41880abe98438185"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "c4282becc63937bc0ed145326a6419d0c6af3043279ab5068d142cfe7c725235"
+metafile = true
+
+[[files]]
 file = "mods/create-more-renewable.pw.toml"
 hash = "0a151c0b60fb166397ab70bbcb82f7516f1a574a9391b98e9c45cb2df825ad3f"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "84862198ea90502b84102b78979865ebe165f4c2dae242f339d836132c1f31c1"
 metafile = true
 
 [[files]]
@@ -291,8 +316,23 @@ hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "9b9b9ad8d9af2b8e64dd71ba598d69e81582c2d6b8ddfa6345b8d1b7d5fd0769"
 metafile = true
 
 [[files]]
@@ -328,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/fusion.pw.toml"
 hash = "0e1e977dcdaa0faea640cce61a6269a630b4be50b4913c2bc86827b6bd2f5e49"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
@@ -373,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
 
 [[files]]
@@ -426,6 +476,16 @@ hash = "b5925e4dbe50574be29872a279b9a44f6348cd1aa175fc7a72cdde0069d2168c"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
@@ -463,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
