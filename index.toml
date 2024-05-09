@@ -161,6 +161,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "9744200222c77dfa72a0327500c97e62c9dddb4a60302df08fcb27489a1b862b"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
 metafile = true
@@ -291,6 +296,26 @@ hash = "7649eb945d320486c8862197130ac0d5052254fe791d13fec0b6aaacf56381e2"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "44939e619b300aeac4de098126c182fdaba2439f737307bbe214f68c32c115a7"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "21b14c54b6ab889ee048f894ef0de763fbb406fa1c2e11fe178442db70e00813"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
+metafile = true
+
+[[files]]
 file = "mods/effect-tooltips.pw.toml"
 hash = "1049635c1bf6fa7620b9fef7ae2b193b7cc02aa7eb57b33cfe168b01fd664d7c"
 metafile = true
@@ -356,11 +381,6 @@ hash = "28684cfa77b928dc7626d5e7149a78a3b7ec6b6a69102774224cdcbab900284e"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "47ae6e6cb2d4d6e1f86780722813a64eb22c88176e012d6eddf851cbe9094473"
-metafile = true
-
-[[files]]
 file = "mods/froglegs.pw.toml"
 hash = "0a496729cbc0da39d016cba5c35b6579937cf6fc466dcd05936923820fd326cd"
 metafile = true
@@ -406,8 +426,8 @@ hash = "08689bd8755129a2470cbf353503cc5d4eb78425da2aa29cb381d4957fd2f48e"
 metafile = true
 
 [[files]]
-file = "mods/invmove.pw.toml"
-hash = "a78bce5d7cf7a324c748b55ec76b1a9d3b44a2f8c86d63125b22c27f9d521eb6"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
 metafile = true
 
 [[files]]
@@ -443,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
@@ -518,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
@@ -663,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/vinery.pw.toml"
 hash = "c256eba79230e9bf164e8b56d6404bc92e896ec50f75a0d944cf40c67b3a9067"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
 
 [[files]]
