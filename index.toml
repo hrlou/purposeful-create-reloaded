@@ -356,11 +356,6 @@ hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "9b9b9ad8d9af2b8e64dd71ba598d69e81582c2d6b8ddfa6345b8d1b7d5fd0769"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
@@ -553,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "26ca76ce6d17ce793960ef92cf1933f0e2330a425ff4f048d7d094f2a133f508"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
