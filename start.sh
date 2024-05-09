@@ -22,6 +22,7 @@ fi
 
 while true; do
 	java @user_jvm_args.txt @libraries/net/neoforged/forge/"${MC_VERSION}-${NFML_VERSION}/unix_args.txt" --nogui
-	echo Server restarting...
-	echo Press CTRL + Z to stop.
+	echo "== IF YOU ARE STUCK IN A LOOP DELETE './libraries' =="
+	echo "Server restarting in 5 seconds..."
+	echo "Press CTRL + Z to cancel."
 done

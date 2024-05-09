@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bootstrap.sh"
+hash = "6a3421094d2d245a41d2fc6abc2139a3809cda7d8d4a6be1ccb816380be6b61d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b0e740787c9fd78106f3052bec391127ace8a0297e75734470b3c99f502f11e9"
 metafile = true
@@ -348,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
 metafile = true
 
 [[files]]
@@ -720,7 +719,7 @@ hash = "9926dd3d3722bb7ec1e75f716958e6ea38753159f79d313fc9044b87a45e474f"
 
 [[files]]
 file = "server.properties"
-hash = "e6c1162feb3b155dbdd667356de8a51fc72b4c4447da0e86c444dfd9f3e15593"
+hash = "4ffe2db9735562ccc6d27dce50e543544a89b237b6382af76abeaea1826ed40c"
 
 [[files]]
 file = "start-screen.sh"
