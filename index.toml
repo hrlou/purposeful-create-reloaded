@@ -270,6 +270,11 @@ hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "225db355171f4bf205c7ba1162699bcb3f8b710cbe041160d333a012f5f3259e"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "eb6a397317d45888e6fadb8d99e9f2018f4d1bbd9198076683c37b30ad396a4e"
 metafile = true
@@ -327,21 +332,6 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
@@ -427,6 +417,26 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c0a0a1e85892a9546c1c69761db4d676e8ff63f67dd203b9d1ad1dc0b07d7b0f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "2bc2974c8a78fbb020c5ed1d568e2539d090803cedc1fe9ac3a64b9ba8e06cef"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
 metafile = true
 
 [[files]]
@@ -537,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
@@ -719,7 +724,7 @@ hash = "9926dd3d3722bb7ec1e75f716958e6ea38753159f79d313fc9044b87a45e474f"
 
 [[files]]
 file = "server.properties"
-hash = "4ffe2db9735562ccc6d27dce50e543544a89b237b6382af76abeaea1826ed40c"
+hash = "680b5f74bb8430ed026ad688dac624a5519696705b12a5e18178bb89d06290e4"
 
 [[files]]
 file = "start-screen.sh"
@@ -727,7 +732,7 @@ hash = "050029015232433cd69b82229195631ab039a3d8fcb9d2b9ff6015fa1a70a792"
 
 [[files]]
 file = "start.sh"
-hash = "42544736e404dfedfe96494b937e2547e0ccf2555c6cd3a3987efb1214014039"
+hash = "57b5f461f98c651422feeb0a182f4bcc4b6b49810118fecf07be9ead240fca5f"
 
 [[files]]
 file = "update.sh"
