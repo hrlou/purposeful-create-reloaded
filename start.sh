@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# READ FROM pack.toml if possible, too lazy at the moment
+rm pack.toml
+wget 'https://raw.githubusercontent.com/hrlou/purposeful-create-reloaded/main/pack.toml'
 MC_VERSION="$(grep -Po '(?<=minecraft = ")[^"]*' pack.toml)"
 NFML_VERSION="$(grep -Po '(?<=neoforge = ")[^"]*' pack.toml)"
 INSTALLER="https://maven.neoforged.net/releases/net/neoforged/forge/${MC_VERSION}-${NFML_VERSION}/forge-${MC_VERSION}-${NFML_VERSION}-installer.jar"

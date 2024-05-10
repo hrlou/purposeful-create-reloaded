@@ -28,6 +28,7 @@ The Create developers share my issue and have done an absolutely fantastic job o
 
 ## Attributions
 
+ - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
  - [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
  - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
  - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
