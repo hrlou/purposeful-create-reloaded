@@ -385,6 +385,11 @@ hash = "0e1e977dcdaa0faea640cce61a6269a630b4be50b4913c2bc86827b6bd2f5e49"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "b2392aeb91549eecd4ef92e149585b8beef1dee9d53832d7e7222cf807220d35"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
