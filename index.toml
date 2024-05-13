@@ -5,6 +5,10 @@ file = "bootstrap.sh"
 hash = "6a3421094d2d245a41d2fc6abc2139a3809cda7d8d4a6be1ccb816380be6b61d"
 
 [[files]]
+file = "client-mods.txt"
+hash = "24fe09912278cf990f3796219bd940e69bbc4693da22e345aadeda42b69f77ce"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b0e740787c9fd78106f3052bec391127ace8a0297e75734470b3c99f502f11e9"
 metafile = true
@@ -445,21 +449,6 @@ hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "2bc2974c8a78fbb020c5ed1d568e2539d090803cedc1fe9ac3a64b9ba8e06cef"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "76ad5b491a38df4f6debfae8808cb455c9b7ecd6c039a814ce1639278ac1f86c"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
-metafile = true
-
-[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
 metafile = true
@@ -749,7 +738,7 @@ hash = "9926dd3d3722bb7ec1e75f716958e6ea38753159f79d313fc9044b87a45e474f"
 
 [[files]]
 file = "server.properties"
-hash = "3a8a40da6fb2b67802c595056d3fcc83026fb09a3eed6ab8a5d503a356a93186"
+hash = "769f3aa6b6df68859082ffa6bbfef4171526aef6fa310eba659ef0729587e7f2"
 
 [[files]]
 file = "start-screen.sh"
@@ -757,7 +746,7 @@ hash = "050029015232433cd69b82229195631ab039a3d8fcb9d2b9ff6015fa1a70a792"
 
 [[files]]
 file = "start.sh"
-hash = "57b5f461f98c651422feeb0a182f4bcc4b6b49810118fecf07be9ead240fca5f"
+hash = "dc7390caf427886ba8fc6881f000aa0565b931656177d79069aca2145bd592b5"
 
 [[files]]
 file = "update.sh"
