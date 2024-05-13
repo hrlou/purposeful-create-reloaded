@@ -738,7 +738,7 @@ hash = "9926dd3d3722bb7ec1e75f716958e6ea38753159f79d313fc9044b87a45e474f"
 
 [[files]]
 file = "server.properties"
-hash = "769f3aa6b6df68859082ffa6bbfef4171526aef6fa310eba659ef0729587e7f2"
+hash = "859d8a8d7000791cefc50dc8d1636ffa8d05faaed8efdac88c79ecf70740aef6"
 
 [[files]]
 file = "start-screen.sh"
