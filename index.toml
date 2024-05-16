@@ -204,6 +204,11 @@ hash = "e3aa54f95b6cf7f69110eb0c8237a3790f02cfb68466d8db9402f248463a91c4"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "5f53b8739d1e92548d593b208a78c2e8eedceaf72edaddc3e986acac26db3d9f"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "6f3565d34d951d82e4e18976e9126d47d0a643148cf143b2756bcb41351218e0"
 metafile = true
@@ -679,6 +684,11 @@ hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
 metafile = true
@@ -691,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "f4a0bd2d234b496174894b285be4c862150ff4cc331e4a042d2fd05ea9a60f4e"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
 metafile = true
 
 [[files]]
@@ -754,4 +769,4 @@ hash = "ac842f29f4bb00b9115ffdf0ad55a6e76de382e3891b7550f6c34f3d47b67459"
 
 [[files]]
 file = "user_jvm_args.txt"
-hash = "97c72e38f9dfb224b00124d8e8ad81625df9eecd939231dcf88f80d12b0b5184"
+hash = "d4cd325021aaef31185c8e2ac5938eb267a147ec166faaf85223e7e3eeea5278"
