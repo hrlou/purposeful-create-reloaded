@@ -19,11 +19,6 @@ hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "ad8eec24ca50321f986faf274ed27713e49bdb7b848630be243154c31c4c1f37"
 metafile = true
@@ -46,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "476350d26c377ffb72133ff1f6e560892b563447c0ad2cba7e1f6d0218438ebb"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "ba45971e28bf00e0dc80a43d0422c6be3ba67924af1dfbfd7d41b0c746dbdba4"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4b5049617e4cf5d0e772e030d557d1d50d920edf3444df9f83939cf7da667c28"
+hash = "6338fea53188e08fb6677de4ebdcb112c265075bdf16e9248f409238e9205027"
 
 [[files]]
 file = "restart.sh"
