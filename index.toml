@@ -9,6 +9,10 @@ file = "client-mods.txt"
 hash = "24fe09912278cf990f3796219bd940e69bbc4693da22e345aadeda42b69f77ce"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "5b10619efb6cc7a61094e5f972c64bd09cc396dc1a6c8f2ac4a165569382d3a3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b0e740787c9fd78106f3052bec391127ace8a0297e75734470b3c99f502f11e9"
 metafile = true
@@ -748,7 +752,7 @@ hash = "9926dd3d3722bb7ec1e75f716958e6ea38753159f79d313fc9044b87a45e474f"
 
 [[files]]
 file = "server.properties"
-hash = "4dedcc0ec550f67d2ee5c53ce9c955e8e43d412346774dca04355b0d4e63f0a1"
+hash = "02bd170f1862a0a3de6a692ae78213eb6bfe5a7856a84eca3ca109c469505db7"
 
 [[files]]
 file = "start-screen.sh"
